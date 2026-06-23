@@ -1,4 +1,5 @@
-# Stock Valuation CLI + Web Dashboard
+# Stock Valuation 
+
 
 DCF-based stock valuation calculator inspired by [Stock-Valuation](https://github.com/scfengv/Stock-Valuation).
 
